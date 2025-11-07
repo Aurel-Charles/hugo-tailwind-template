@@ -2,6 +2,25 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo + Tailwind Site'
 
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Teams'
+    pageRef = '/'
+    weight = 20
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/'
+    weight = 30
+  [[menus.main]]
+    name = 'Latest Work'
+    pageRef = '/'
+    weight = 40
+
+
 
 [build]
   [build.buildStats]
