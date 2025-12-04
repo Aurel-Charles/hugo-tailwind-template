@@ -3,7 +3,9 @@
     "tags": [
       "a",
       "body",
+      "div",
       "footer",
+      "h1",
       "head",
       "header",
       "html",
@@ -14,7 +16,18 @@
       "title",
       "ul"
     ],
-    "classes": null,
-    "ids": null
+    "classes": [
+      "crt",
+      "off",
+      "scanline",
+      "terminal",
+      "text-shadow"
+    ],
+    "ids": [
+      "bezel",
+      "crt",
+      "monitor",
+      "vrt"
+    ]
   }
 }
