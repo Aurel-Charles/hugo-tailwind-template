@@ -10,6 +10,7 @@
       "header",
       "html",
       "li",
+      "link",
       "main",
       "meta",
       "script",
@@ -20,14 +21,11 @@
       "crt",
       "off",
       "scanline",
-      "terminal",
       "text-shadow"
     ],
     "ids": [
-      "bezel",
       "crt",
-      "monitor",
-      "vrt"
+      "monitor"
     ]
   }
 }

@@ -15,7 +15,7 @@ enableEmoji = true
 # Content Settings
 # ------------------------------------------------------------------------------
 summaryLength = 70
-paginate = 10
+pagerSize = 10
 timeout = '60s'
 
 # URL Settings

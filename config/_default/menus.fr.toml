@@ -29,6 +29,6 @@
   weight = 10
 
 [[footer]]
-  name = 'Conditions d'Utilisation'
+  name = "Conditions d'Utilisation"
   pageRef = '/terms'
   weight = 20
