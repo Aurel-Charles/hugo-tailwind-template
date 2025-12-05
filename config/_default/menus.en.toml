@@ -7,8 +7,8 @@
   weight = 10
 
 [[main]]
-  name = 'Teams'
-  pageRef = '/teams'
+  name = 'Podcasts'
+  pageRef = '/podcasts'
   weight = 20
 
 [[main]]

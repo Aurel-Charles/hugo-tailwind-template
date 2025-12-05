@@ -3,9 +3,7 @@
     "tags": [
       "a",
       "body",
-      "div",
       "footer",
-      "h1",
       "head",
       "header",
       "html",
@@ -13,19 +11,17 @@
       "link",
       "main",
       "meta",
+      "p",
       "script",
       "title",
       "ul"
     ],
     "classes": [
-      "crt",
-      "off",
-      "scanline",
-      "text-shadow"
+      "bg-primary",
+      "bg-secondary",
+      "dark",
+      "text-primary"
     ],
-    "ids": [
-      "crt",
-      "monitor"
-    ]
+    "ids": null
   }
 }

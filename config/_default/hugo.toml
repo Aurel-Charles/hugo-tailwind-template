@@ -3,7 +3,7 @@
 
 baseURL = 'https://example.org/'
 title = 'My New Hugo + Tailwind Site'
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'fr'
 defaultContentLanguageInSubdir = false
 
 # Build Settings
